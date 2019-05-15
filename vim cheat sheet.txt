@@ -1,0 +1,16 @@
+select entire line : shift + v
+select all : ggvG
+delete all:  ggdG
+cit : change in tag (html)
+ciw : change in word 
+cst<h2> : change surrounding tag to <h2>
+> : insert indent
+ds' : delete ' as surrounding ; 'sjdalfk' -> sjdalfk
+cs'" : change ' as surrounding to " ; 'sjdalfk' -> sjdalfk
+csw" : quote word with " ; word -> "word"
+ysiw' : cover word with ''
+S" : add " to selected pharse
+viw : select word when cursor is in middle of the word [select in word]
+diw : delete in word
+ctrl + v : vertical select mode
+shift+c : delete from cursor to end-line
